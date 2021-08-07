@@ -1,0 +1,6 @@
+Germany [DE]
+Standard rate: 19.00 %
+Reduced rate: 7.00 %
+Reduced rate alt: is not
+Super reduced rate: is not
+Parking rate: is not
